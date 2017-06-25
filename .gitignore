@@ -12,6 +12,7 @@ nbactions.xml
 *.ipr
 *.iws
 .idea/
+out/
 
 # Maven
 build.xml
