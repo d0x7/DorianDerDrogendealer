@@ -1,6 +1,7 @@
 package sample;
 
-public enum ChaseOption {
+public enum ChaseOption
+{
     RUN,
     SHOOT,
     OFFER_TO_SMOKE,

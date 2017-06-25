@@ -1,6 +1,7 @@
 package sample;
 
-public enum Drug {
+public enum Drug
+{
     SPEED,
     COCAINE,
     MDMA,

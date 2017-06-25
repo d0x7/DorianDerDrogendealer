@@ -1,7 +1,7 @@
 package sample;
 
-
-public class CopChasing extends DorianDerDrogendealer {
+public class CopChasing
+{
     public static void main(String[] args) {
         DorianDerDrogendealer chase = new DorianDerDrogendealer();
 
